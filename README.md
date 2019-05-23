@@ -27,3 +27,4 @@ OpenSaaS Studio 5月の勉強会は[Prow](https://github.com/kubernetes/test-inf
 * プラグイン開発
 * GitOps
 
+
